@@ -1,3 +1,0 @@
-This file was names Test.c
-
-It has been renamed to test.txt
