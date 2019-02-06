@@ -3,8 +3,3 @@ added another line to this file in the vi editor
 along with the name change updating file contents as well
 It has been renamed to test.txt
 :wq
-exit
-quit
-x
-ex
-
